@@ -109,24 +109,26 @@ Note that unless otherwise specified:
   - Large assignments are due by class in the row they appear
   - Weekly assignments are due before the **following** class. 
 
-| Date | Class | Readings | Weekly Assignments | Large Assignments |
-| :-: | :-: | :-: | :-: | :-: |
-| Week1: 8/26 | Introduction to Course & ML Ecosystem Review | Chapter 1 | Warm-up Assignment #2 |   |
-| Week2: 9/2 | ML Workflow | Chapter 2  | &check; |  |
-| Week3: 9/9 | Data Preparation & Evaluation | Chapter 3 | &check; |  |
-| Week4: 9/16 | Classifiers1: Logistic regression, KNN, SVM, NB | Chapter 4 & 5 | &check;  | HW1: Imputation & Evaluation |
-| Week5: 9/23 | Classifiers2: Decision Trees, Ensemble Methods  | Chapter 6 & 7 | &check; | |
-| Week6: 9/30 | Hyperparameter Tuning; ML in the real world; In-class exercise | Heilmeier Catechism; Appendix A | &check; | HW2: Classification Challenge|
-| Week7: 10/07 | Project Checkpoint 1 Presentations |   |  | Project Checkpoint 1 |
-| Week8: 10/14 | Dimensionality Reduction | Chapter 8 | &check; | |
-| Week9: 10/21 | Clustering smorgasbord! | Chapter 9 | &check; |  |
-| Week10: 10/28 | Introduction to deep learning | Chapter 10 | &check;  | HW3: Clustering categorical data |
-| Week11: 11/04 | Functional API; TensorFlow tools; Activation functions | Chapter 11 |  | Project Checkpoint 2  |
-| Week12: 11/11 | Learning Schedules; Optimizers |   |  |  |
-| Week13: 11/18 | Regularization, Hyperparameter tuning |  |  | HW4:  CNN-based Image Recognition  |
-| **Thanksgiving Break! 11/25** | | **Please work on your projects**   |  |
-| Week14: 12/09 | Project Presentations (Checkpoint 3) |  |  | Project Presentations (Checkpoint 3) |
-| **12/17** |  |  **Final Project Report Due** |  |
+| **DATE** | **Class** | **Reading Assignment** | **Weekly Assignments** | **HW Due** |
+| --- | --- | --- | --- | --- |
+| Week1: 1/13 | Introduction to Course & ML Ecosystem Review | Chapter 1 | **Warm-up Assignment #1 (in class)** |     |
+| Week2: 1/20 | **NO CLASS** | Work through materials in Week 2 |     |     |
+| Week3: 1/27 | ML Workflow; ML in the real world; In-class exercise | Chapter 2; Heilmeier Catechism; Appendix A | **✓** |     |
+| Week4: 2/3 | Data Preparation & Evaluation | Chapter 3 | **✓** |     |
+| Week5: 2/10 | Classifiers1: Logistic regression, KNN, SVM, NB | Chapter 4 & 5 | **✓** | **Project Checkpoint 1** |
+| Week6: 2/17 | Classifiers2: Decision Trees, Ensemble Methods | Chapter 6 & 7 | **✓** | **HW1: Imputation & Evaluation** |
+| Week7:2/24 | Hyperparameter Tuning; |     | **✓** |     |
+| Week8: 3/3 | Dimensionality Reduction | Chapter 8 | **✓** | **HW2: Classification Challenge** |
+| Week9: 3/10 | **Spring Break!** |     |     |     |
+| Week10: 3/17 | Clustering 1: K-means, HAC; evaluation |     |     |     |
+| Week11: 3/24 | Clustering 2: Density-based methods, other techniques | Chapter 9 | **✓** | **HW3**: **Clustering categorical data** |
+| Week12: 3/31 | Introduction to deep learning | Chapter 10 | **✓** |     |
+| Week13: 4/7 | Functional API; TensorFlow tools; Activation functions | Chapter 11 | **✓** | **Project Checkpoint 2** |
+| Week14: 4/14 | Learning Schedules; Optimizers |     | **✓** |     |
+| Week15: 4/21 | Regularization, Hyperparameter tuning |     | **✓** | **HW4: CNN-based Image Recognition** |
+| Week16: 4/28 | **Project Presentations (Checkpoint 3)** |     |     | **Project Checkpoint 3** |
+| **5/6** | **Final Report Due** |     |     |     |
+
 
 
 
