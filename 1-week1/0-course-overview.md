@@ -58,7 +58,7 @@ The syllabus (available on blackboard) is the most authoritative and up-to-date 
   * Due before the next class.
   * No extensions, but the two lowest grades will be dropped.
 * __Large Assignments__
-  * Due on scheduled date\.
+  * Due on scheduled date.
   * Assignments not meeting formatting requirement returned without grading and marked as late\.
   * Week\-long grace period for all large assignments (assignments may be one week late with no deductions)
       * Late assignments may not be graded until the end of the semester.
